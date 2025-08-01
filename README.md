@@ -21,6 +21,8 @@ git clone https://github.com/pankaj-417/calculator.git
 Navigate into the project directory:
 cd calculator
 
+Live Demo - https://calculator-beta-one-72.vercel.app/
+
 Open index.html in your web browser to view the calculator.
 Usage
 Enter numbers using the on-screen buttons.
